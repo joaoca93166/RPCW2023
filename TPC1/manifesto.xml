@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifesto>
+    <meta>
+        <título>Era uma vez...</título>
+        <subtítulo>Este é opcional</subtítulo>
+        <data>2023-02-19</data>
+        <autor>
+            <nome>João Pedro Rodrigues Carvalho</nome>
+            <id>PG50496</id>
+            <gitlink>link repositório</gitlink>
+        </autor>
+        <uc>Designação da uc</uc>
+    </meta>
+    <resumo>
+        <p>Para 1...<b>Isto fica a bold</b></p>
+        <p>Para 2...<i>Isto é itálico</i>...</p>
+        <p>Para 3 com uma <xref url="URL para o recurso">referência externa</xref>...</p>
+    </resumo>
+    <resultados>
+        <resultados path="link para o ficheiro">Descrição do que é</resultados>
+    </resultados>
+</manifesto>
