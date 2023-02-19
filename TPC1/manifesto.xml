@@ -1,22 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifesto>
     <meta>
-        <título>Era uma vez...</título>
-        <subtítulo>Este é opcional</subtítulo>
+        <título>Hungria</título>
         <data>2023-02-19</data>
         <autor>
             <nome>João Pedro Rodrigues Carvalho</nome>
             <id>PG50496</id>
-            <gitlink>link repositório</gitlink>
+            <gitlink>https://github.com/joaoca93166/RPCW2023</gitlink>
         </autor>
-        <uc>Designação da uc</uc>
+        <uc>Representação e Processamento de Conhecimento na Web</uc>
     </meta>
     <resumo>
-        <p>Para 1...<b>Isto fica a bold</b></p>
-        <p>Para 2...<i>Isto é itálico</i>...</p>
-        <p>Para 3 com uma <xref url="URL para o recurso">referência externa</xref>...</p>
+        <p>Página web com algumas informações sobre a Hungria.</p>
     </resumo>
     <resultados>
-        <resultados path="link para o ficheiro">Descrição do que é</resultados>
+        <resultados path="hungria.html">Código html que irá gerar a página pretendida</resultados>
     </resultados>
 </manifesto>
