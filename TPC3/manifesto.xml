@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifesto>
+    <meta>
+        <título>Hungria</título>
+        <data>2023-02-19</data>
+        <autor>
+            <nome>João Pedro Rodrigues Carvalho</nome>
+            <id>PG50496</id>
+            <gitlink>https://github.com/joaoca93166/RPCW2023</gitlink>
+        </autor>
+        <uc>Representação e Processamento de Conhecimento na Web</uc>
+    </meta>
+    <resumo>
+        <p>criação de um servidor dos registos do dataset fornecido</p>
+    </resumo>
+    <resultados>
+        <resultados path="servidor.js">servidor pretendido</resultados>
+    </resultados>
+</manifesto>
