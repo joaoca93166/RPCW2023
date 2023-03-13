@@ -96,5 +96,5 @@ var todoServer = http.createServer(function (req, res) {
 })
 
 todoServer.listen(7777, ()=>{
-    console.log("Servidor Ã  escuta na porta 7777...")
+    console.log("Servidor à  escuta na porta 7777...")
 })

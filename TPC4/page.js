@@ -35,7 +35,7 @@ exports.myPage = function(lista, d){
                             <thead>
                                 <tr class="w3-blue">
                                     <th>Description</th>
-                                    <th>Responsible</th>
+                                    <th>Author</th>
                                     <th>Due Date</th>
                                     <th></th>
                                 </tr>
@@ -77,7 +77,7 @@ exports.myPage = function(lista, d){
                             <thead>
                                 <tr class="w3-blue">
                                     <th>Description</th>
-                                    <th>Responsible</th>
+                                    <th>Author</th>
                                     <th>Due Date</th>  
                                 </tr>
                             </thead>
